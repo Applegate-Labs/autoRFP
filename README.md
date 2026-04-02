@@ -26,7 +26,7 @@ View Manus Session link [here](https://manus.im/share/S8DcZhwMq76mbabQnB0G6p)
 
 ## Usage
 
-1. Ensure your firm's credentials (PPTX template, project database, and team CVs) are accessible via one of the supported workflows (see [Setup Guide](references/setup-guide.md)).
+1. Ensure your firm's credentials (PPTX template, project database, and team CVs) are accessible via one of the supported workflows in Manus.
 2. Upload or paste the client RFP document into your Manus task.
 3. Type the following prompt:
    > Invoke the `/auto-rfp` skill. Use the attached RFP document as the client requirement.
