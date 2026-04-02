@@ -4,6 +4,11 @@ A powerful, workflow-agnostic Manus skill that automates the creation of tailore
 
 Built for the **Manus × Vibecoding: Consulting Hackathon**.
 
+## Manus Session
+View Manus Session link [here](https://manus.im/share/S8DcZhwMq76mbabQnB0G6p)
+
+
+
 ## Features
 
 - **Template Agnostic:** Uses a dynamic discovery script to map placeholders in any PPTX template. No hardcoded shape names or slide limits.
@@ -16,9 +21,8 @@ Built for the **Manus × Vibecoding: Consulting Hackathon**.
 
 ## Installation
 
-1. Download or clone this repository.
-2. In Manus, open the task where you want to install the skill.
-3. Upload the `auto-rfp` folder or use the `/skill-creator` to import it.
+1. Download the skill file.
+2. Upload the skill into Manus.
 
 ## Usage
 
@@ -29,7 +33,7 @@ Built for the **Manus × Vibecoding: Consulting Hackathon**.
 
 Manus will automatically locate your credentials, select the best-matching projects and team members, draft the content, and deliver a finalized `{ClientName}_Proposal.pptx`.
 
-## Repository Structure
+## Skill Folder Structure
 
 ```text
 auto-rfp/
